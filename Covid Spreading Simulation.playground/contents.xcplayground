@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="Without FaceMask"/>
+        <page name="With FaceMask"/>
+        <page name="Avoid the Covid Virus Game"/>
+    </pages>
+</playground>
